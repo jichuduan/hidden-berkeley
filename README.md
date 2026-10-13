@@ -17,7 +17,7 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+this is a notebook for me, I add one more building, our mac buidling into that csv. the link is here: https://grad.berkeley.edu/program/master-of-computational-social-science-macss/
 
 ## Website checks
 
