@@ -21,4 +21,4 @@ this is a notebook for me, I add one more building, our mac buidling into that c
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+I checked the updates through github, and I also check if i can really open those link.
